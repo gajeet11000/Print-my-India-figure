@@ -1,5 +1,5 @@
 import java.io.*;
-class MyIndia
+public class MyIndia
 {
 	public static void main(String[] args) throws IOException
 	{
