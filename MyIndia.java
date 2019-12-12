@@ -24,6 +24,7 @@ class MyIndia
 			   +"\n12>)\n060 ()!\n+=-!$+#\n*D\'!%\'&\n+\\%\n,M +&\n-K!+&\n&% J\'%\'\n%T%"
 			   +"$(\n)O\'\")\n\'S\' )\n)% F6\n*$ D8\n1B9\n0B:\n1=>\n1=>\n1;@\n19B\n18C"
 			   +"\n27C\n33F\n32G\n4/I\n5/H\n5.I\n6-I\n7+J\n7+J\n7+J\n9\'L\n9%N\n:#N\n;!N";
+		
 		int l=code.length();
 		char ch;
 		for(int i=0, j=0 ; i<l ; i++, j++)
