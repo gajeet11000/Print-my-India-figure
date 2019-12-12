@@ -4,7 +4,7 @@
    "https://www.tutorialspoint.com/compile_java_online.php"
 3. Clear the default "Hello World" program there.
 4. Now paste this code there.
-5. Click on Run and enjoy the Beauty of Programming!!
+5. Click on Execute and enjoy the Beauty of Programming!!
 ---------------------------------------------------------------------------------------------------------------------------------------*/
 /**
  * A character encoded java program to print the figure of India.
@@ -14,7 +14,7 @@
  */
 
 import java.io.*;
-class MyIndia
+public class MyIndia
 {
 	public static void main(String[] args) throws IOException
 	{
