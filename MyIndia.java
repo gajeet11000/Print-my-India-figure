@@ -7,7 +7,7 @@
 5. Click on Run and enjoy the Beauty of Programming!!
 ---------------------------------------------------------------------------------------------------------------------------------------*/
 /**
- * A character encoded java program to print the India' Figure.
+ * A character encoded java program to print the India's Figure.
  * 
  * @author G Ajeet 
  * @version (12 / 12 / 2019)
