@@ -42,7 +42,7 @@ class MyIndia
 			else
 			{
 				for(int k=0 ; k<(int)ch-31 ; k++)
-					w.write("!");
+					w.write("#");
 			}
 		}
 		w.flush();
