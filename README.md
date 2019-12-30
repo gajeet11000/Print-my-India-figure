@@ -1,4 +1,4 @@
-------------------------------------------------Instructions to run the Program-----------------------------------------------------
+------------------------------------------------Instructions to run the Program---------------------------------------------------
 
 1. Select and copy this whole code.
 2. Now you may goto any online Java complier OR just goto the link below:
